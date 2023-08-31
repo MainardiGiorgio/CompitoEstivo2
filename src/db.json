@@ -1,0 +1,56 @@
+{
+    "spartiti": [
+      {
+        "id": 1,
+        "titolo": "Studi Op. 25",
+        "autore": "F. Chopin",
+        "editore": "Peters",
+        "prezzo": 14.95
+      },
+      {
+        "id": 2,
+        "titolo": "Per Elisa",
+        "autore": "L.V. Beethoven",
+        "editore": "Stretta Music",
+        "prezzo": 3.99
+      },    
+      {
+        "id": 3,
+        "titolo": "Pour le Piano",
+        "autore": "C. Debussy",
+        "editore": "Ricordi",
+        "prezzo": 17.99
+      }
+    ],
+    "strumenti":
+    [
+      {
+        "id": 1,
+        "marca": "Steinway & Sons",
+        "modello": "Model D",
+        "categoria": "Pianoforti",
+        "prezzo": 120000
+      },
+      {
+        "id": 2,
+        "marca": "Fender",
+        "modello": "Stratocaster Custom Shop",
+        "categoria": "Chitarre",
+        "prezzo": 5500
+      },
+      {
+        "id": 3,
+        "marca": "Selmer",
+        "modello": "Supreme Alto Sax",
+        "categoria": "Sax",
+        "prezzo": 7799
+      },
+      {
+        "id": 4,
+        "marca": "Yamaha",
+        "modello": "Stage Custom",
+        "categoria": "Batterie",
+        "prezzo": 1190
+      }
+    ]
+  }
